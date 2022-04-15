@@ -7,8 +7,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for requesting changes to make SyncBox even better for everyone! Please note: when submitting this feature request, you're giving us permission to use your idea without any conditions!
-    
+        Thanks for requesting changes to make SyncBox even better for everyone! Please note: when submitting this feature request, you're giving us permission to use your idea without any conditions! |
+         |
         Make sure to keep an eye on this request, because we might ask you for more information!
 - type: input
     id: title
