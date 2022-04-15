@@ -4,8 +4,8 @@ contact_links:
     url: https://github.com/SyncBoxNL/SyncBox/discussions
     about: Ask your questions in our community!
   - name: Official Support
-    url: mailto:info@syncbox.nl
+    url: https://tinyurl.com/syncbox-mail
     about: We can help you via mail too!
   - name: Security Vurnabilities
-    url: mailto:info@syncbox.nl
+    url: https://tinyurl.com/syncbox-mail
     about: Please report security vulnerabilities by sending us a mail.
